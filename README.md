@@ -1,6 +1,7 @@
 # FociNet
 
-FociNet is a Convolutional Neural Network (CNN) designed to analyze microscopy images of single cells and predict the radiation dose and type. . This tool aims to support space scientists in assessing radiation exposure and understanding the biological impacts of space radiation.
+FociNet is a Convolutional Neural Network (CNN) designed to analyze fluorescence microscopy images of single cells and predict the radiation dose and type. This tool aims to support space scientists in assessing radiation exposure and understanding the biological impacts of space radiation.
+
 
 ## Overview
 
