@@ -2,18 +2,6 @@
 
 FociNet is a Convolutional Neural Network (CNN) designed to analyze microscopy images of cells stained with specific markers, such as DAPI, and predict the radiation dose and type. This tool aims to support space scientists in assessing radiation exposure and understanding the biological impacts of space radiation.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Preparation](#data-preparation)
-- [Training the Model](#training-the-model)
-- [Evaluating the Model](#evaluating-the-model)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 FociNet is built using TensorFlow and Keras, leveraging the power of deep learning to automate the analysis of fluorescence microscopy images. It predicts:
